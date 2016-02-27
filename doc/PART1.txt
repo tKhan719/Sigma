@@ -1,0 +1,17 @@
+SIGMA PART 1:
+=================================================================
+
+* Player (Sigma), wakes up in a infirmary at the headquarters of the Order
+    - Gets out of bed and explores current room
+	- Talks with hospital stafff to figure out what happened
+	- Omega wants to speak with Sigma
+
+* Omega speaks with Sigma
+    - Asks a few questions
+    - Sigma's amnesia is know
+    - Omega gives brief of what happened
+    - Sigma decides to join the Order
+
+* First mission
+    - Tutorial-esque
+    - To go into an asteroid gov base and gather intel
